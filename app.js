@@ -4,7 +4,7 @@ body=document.querySelector("body");
 let btns =["red","blue","orange","green"];
 
 
-let game=[];
+let game=[]; 
 let user=[];
 
 let start=false;
